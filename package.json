@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "dev": "npm --prefix portfolio run dev --"
+  }
+}
