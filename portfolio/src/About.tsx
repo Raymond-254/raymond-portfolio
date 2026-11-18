@@ -4,7 +4,7 @@ export default function About() {
         "Web development",
         "Technology & AI",
         "Football",
-        "Open source",
+        "Open Source",
     ];
 
     return (
